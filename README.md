@@ -32,7 +32,8 @@ This command performs a comprehensive scan with aggressive timing and service de
 
 ## The output
 
-![[Pasted image 20230807123345.png]]
+![image](https://github.com/Hamada-khairi/THM-Walkthrough/assets/127849324/b7511f51-5f99-4657-a756-623b5c3549c7)
+
 
 ### Step 2: Analyzing Nmap Results
 
@@ -54,7 +55,8 @@ ssh ubuntu@MACHINE_IP
 ```
 
 When prompted for a password, enter: `Dafdas!!/str0ng`.
-![[Pasted image 20230807123416.png]]
+![image](https://github.com/Hamada-khairi/THM-Walkthrough/assets/127849324/993028ba-f290-45c5-8b51-312d0aa02f86)
+
 ### Step 4: Exploring the Filesystem
 
 Once logged in, explore the filesystem to locate the flag. Use the following commands:
